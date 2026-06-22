@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Final-year Computer Engineering student with strong foundations in software development, data structures, and object-oriented programming. Hands-on experience with Java and Python through academic and self-driven projects, with an interest in backend development and building scalable, reliable software systems.</p>
+<p align="left">Computer Engineering graduate with strong foundations in software development, data structures, and object-oriented programming. Hands-on experience with Java and Python through academic and self-driven projects, with an interest in backend development and building scalable, reliable software systems.</p>
 
 ###
 
