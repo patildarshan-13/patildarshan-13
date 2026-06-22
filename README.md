@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">🎓 Computer Engineering student (2026)  <br>📍 Pune, India</h3>
+<h3 align="center">🎓 Computer Engineering Graduate  <br>📍 Pune, India</h3>
 
 ###
 
